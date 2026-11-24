@@ -9,8 +9,8 @@ from csv_loader import parse_files
 from query import run_queries
 from validator import load_airports
 
-STUDENT_ID = "241RDB000"
-FIRST_NAME = "Sefer"
+STUDENT_ID = "260ADM048"
+FIRST_NAME = "Furkan"
 LAST_NAME = "Seferoglu"
 
 
